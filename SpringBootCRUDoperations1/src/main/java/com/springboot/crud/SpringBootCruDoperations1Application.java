@@ -9,5 +9,5 @@ public class SpringBootCruDoperations1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCruDoperations1Application.class, args);
 	}
-
+		System.out.println("Small change in the code")
 }
